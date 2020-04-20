@@ -15,3 +15,4 @@ bokeh
 pickleshare
 udacity-pa
 torch
+torchvision
