@@ -1,2 +1,5 @@
 dogImages/
 lfw/
+
+model*.pt
+
